@@ -1,0 +1,31 @@
+//
+//  Storyline.pch
+//  storyline
+//
+//  Created by Jimmy Xu on 11/6/16.
+//  Copyright © 2016 Storyline. All rights reserved.
+//
+
+#ifndef Storyline_pch
+#define Storyline_pch
+
+#ifdef __OBJC__
+#import "PPUIViewAdditions.h"
+#import "NSArray+PPAdditions.h"
+#import "PPJSONSerialization.h"
+#import "GlobalFunctions.h"
+#import <CoreData/CoreData.h>
+#import "GVUserDefaults+Storyline.h"
+#import "UIColor+STRAdditions.h"
+#import "UIFont+STRAdditions.h"
+
+#define MR_SHORTHAND
+#import <MagicalRecord/MagicalRecord.h>
+#endif
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "GlobalHeader.h"
+
+
+#endif /* Storyline_pch */

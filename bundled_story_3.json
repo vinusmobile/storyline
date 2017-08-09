@@ -1,0 +1,102 @@
+{
+  "id": "bundled_story_3",
+  "title": "Bundled Love 3",
+  "read_count": 358,
+  "series":[3,5],
+    "next":  {
+  "id": "bundled_story_4",
+  "title": "Bundled Love 4",
+  "image_url": "http://files.parsetfss.com/190b41e2-b1a8-41c9-8693-33bbbfc23d65/tfss-dc3f778f-8a17-4a9e-9c16-9fe15fbd1460-scavengerhunt.jpg",
+  "read_count": 358,
+        "series": [
+                   4,
+                   5
+                   ],
+  "author": {
+  "id": "oashidohomw89912hiusn",
+  "name": "Jimmy Xu"
+  }},
+  "summary": "This is the bundled story",
+  "image_url": "http://files.parsetfss.com/190b41e2-b1a8-41c9-8693-33bbbfc23d65/tfss-dc3f778f-8a17-4a9e-9c16-9fe15fbd1460-scavengerhunt.jpg",
+  "author": {
+    "id": "oashidohomw89912hiusn",
+    "name": "Jimmy Xu"
+  },
+  "messages": [
+    {
+      "delay": 0,
+      "text": "are you up for a game?",
+      "sender_id": "asdoirhser"
+    },
+    {
+      "delay": 0,
+      "text": "I think you sent this text to the wrong number",
+      "sender_id": "oaishdfos83"
+    },
+    {
+      "delay": 0,
+      "text": "nonsense, madison. i want to play with you :)",
+      "sender_id": "asdoirhser"
+    },
+    {
+      "delay": 0,
+      "text": "who is this? what game?",
+      "sender_id": "oaishdfos83"
+    },
+    {
+      "delay": 0,
+      "text": "this is your best friend :D",
+      "sender_id": "asdoirhser"
+    },
+    {
+      "battery":true
+    },
+    {
+      "delay": 0,
+      "text": "who is this? what game?",
+      "sender_id": "oaishdfos83"
+    },
+    {
+      "delay": 0,
+      "text": "this is your best friend :D",
+      "sender_id": "asdoirhser"
+    },
+               {
+               "delay": 0,
+               "text": "are you up for a game?",
+               "sender_id": "asdoirhser"
+               },
+               {
+               "delay": 0,
+               "text": "I think you sent this text to the wrong number",
+               "sender_id": "oaishdfos83"
+               },
+               {
+               "delay": 0,
+               "text": "nonsense, madison. i want to play with you :)",
+               "sender_id": "asdoirhser"
+               },
+               {
+               "delay": 0,
+               "text": "who is this? what game?",
+               "sender_id": "oaishdfos83"
+               },
+               {
+               "delay": 0,
+               "text": "this is your best friend :D",
+               "sender_id": "asdoirhser"
+               }
+
+  ],
+  "characters": [
+    {
+      "id": "asdoirhser",
+      "name": "jimmy",
+      "is_local":true
+    },
+    {
+      "id": "oaishdfos83",
+      "name": "anton"
+    }
+  ]
+}

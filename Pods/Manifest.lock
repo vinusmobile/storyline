@@ -1,0 +1,77 @@
+PODS:
+  - Amplitude-iOS (3.11.1)
+  - Appirater (2.1.0)
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest (= 1.8.2)
+    - ASIHTTPRequest/CloudFiles (= 1.8.2)
+    - ASIHTTPRequest/Core (= 1.8.2)
+    - ASIHTTPRequest/S3 (= 1.8.2)
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - FBSDKCoreKit (4.17.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.17.0):
+    - FBSDKCoreKit
+  - GVUserDefaults (1.0.2)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - OneSignal (2.2.1)
+  - OpenSSL (1.0.210)
+  - Reachability (3.2)
+  - RMStore (0.7.1):
+    - RMStore/Core (= 0.7.1)
+  - RMStore/AppReceiptVerificator (0.7.1):
+    - OpenSSL (~> 1.0.1)
+    - RMStore/Core
+  - RMStore/Core (0.7.1)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - ZipArchive (1.4.0)
+
+DEPENDENCIES:
+  - Amplitude-iOS (~> 3.11.1)
+  - Appirater
+  - ASIHTTPRequest
+  - FBSDKCoreKit (~> 4.17)
+  - FBSDKLoginKit (~> 4.17)
+  - GVUserDefaults
+  - MagicalRecord
+  - OneSignal
+  - RMStore
+  - RMStore/AppReceiptVerificator
+  - SDWebImage
+  - ZipArchive
+
+SPEC CHECKSUMS:
+  Amplitude-iOS: 36ce2e5ce49280cdbe30e97c23099f04c62dd5b0
+  Appirater: 03e7eac74215b4d8ab8ae11440a2c39d00df1016
+  ASIHTTPRequest: ec013992946676b7978dcbde6396d57312d21db4
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FBSDKCoreKit: 30a21d2d7b92984b3d80497113433c00824c35e9
+  FBSDKLoginKit: 42b7129ac0373ca99eaf4cbebf4d07bd42371f59
+  GVUserDefaults: 52d48cf8ba578b40a1a76312b196dfc9134ba36a
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  OneSignal: 4fdee33a5c3108c92747be1be8b9b7dfe13f86c5
+  OpenSSL: 246ffb948e9d56466727fd318134af35f5aa764e
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  RMStore: 64ba13a9c040e3b7572765d169f77175cd3243e5
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  ZipArchive: e25a4373192673e3229ac8d6e9f64a3e5713c966
+
+PODFILE CHECKSUM: 91f780b142be516fc8be69ff14e3be640e78be1c
+
+COCOAPODS: 1.0.0
